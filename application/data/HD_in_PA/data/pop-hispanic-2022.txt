@@ -1,0 +1,996 @@
+"Notes"	"County"	"County Code"	"Hispanic Origin"	"Hispanic Origin Code"	"Year"	"Year Code"	"Five-Year Age Groups"	"Five-Year Age Groups Code"	"Gender"	"Gender Code"	Deaths	Population	Crude Rate
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	243	Unreliable
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	308	Unreliable
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	258	Suppressed
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	280	Suppressed
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	205	Unreliable
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	265	Suppressed
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	201	Suppressed
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	286	Unreliable
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	225	Unreliable
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	246	Suppressed
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	131	Suppressed
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	185	Suppressed
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	110	Suppressed
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	126	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	1479	Unreliable
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	1634	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	1244	Unreliable
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	1665	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	1100	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	1210	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	835	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	845	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	732	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	740	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	658	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	518	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	535	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	470	Suppressed
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	21	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	28	Suppressed
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	20	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	31	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	20	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	16	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	13	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	21	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	19	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	11	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	12	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	15	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	14	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	12	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	162	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	158	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	167	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	154	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	130	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	137	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	87	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	127	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	83	Suppressed
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	82	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	58	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	73	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	57	Suppressed
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	64	Suppressed
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	13	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	40	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	14	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	45	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	19	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	19	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	15	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	15	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	15	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	21	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	7	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	22	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	11	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	14	Unreliable
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	3822	Unreliable
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	12	4129	Unreliable
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	3692	Suppressed
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	13	3617	Unreliable
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	3544	Suppressed
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	11	3337	Unreliable
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	2892	Suppressed
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	16	2999	Unreliable
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	2775	Suppressed
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	16	2593	Unreliable
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	11	2417	Unreliable
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	17	2286	Unreliable
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	16	1593	Unreliable
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	19	1667	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	59	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	86	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	58	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	94	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	49	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	76	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	33	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	49	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	36	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	52	Suppressed
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	19	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	44	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	23	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	34	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	39	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	45	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	33	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	45	Suppressed
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	35	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	44	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	29	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	23	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	17	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	28	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	19	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	21	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	19	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	24	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	1313	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	1558	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	1473	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	1767	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	1537	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	1759	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	1393	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	1441	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	1122	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	1319	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	922	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	1005	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	726	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	706	Suppressed
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	123	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	187	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	153	Suppressed
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	201	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	180	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	158	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	89	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	120	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	93	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	114	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	70	Suppressed
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	57	Suppressed
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	56	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	64	Suppressed
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	80	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	130	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	75	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	133	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	81	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	97	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	52	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	96	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	49	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	59	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	39	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	63	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	43	Suppressed
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	42	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	2	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	2	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	3	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	2	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	1	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	1	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	3	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	7	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	2	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	2	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	0	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	1	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	0	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	0	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	167	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	227	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	168	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	175	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	158	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	178	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	123	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	149	Suppressed
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	86	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	137	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	78	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	91	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	50	Suppressed
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	93	Suppressed
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	142	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	279	Suppressed
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	124	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	247	Suppressed
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	117	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	176	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	99	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	146	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	84	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	104	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	63	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	91	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	43	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	58	Unreliable
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	1323	Suppressed
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	1753	Suppressed
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	1358	Unreliable
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	1704	Suppressed
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	1311	Suppressed
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	1646	Suppressed
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	1200	Suppressed
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	1419	Suppressed
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	1053	Suppressed
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	1171	Suppressed
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	846	Suppressed
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	989	Suppressed
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	673	Suppressed
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	727	Suppressed
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	14	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	15	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	15	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	12	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	11	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	14	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	17	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	11	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	10	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	8	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	7	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	5	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	4	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	13	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	29	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	216	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	31	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	228	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	37	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	202	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	31	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	191	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	24	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	102	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	12	Suppressed
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	60	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	15	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	33	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	15	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	34	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	19	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	31	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	29	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	19	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	18	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	24	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	9	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	12	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	10	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	13	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	8	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	11	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	89	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	119	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	86	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	88	Suppressed
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	73	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	90	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	57	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	77	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	39	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	73	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	37	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	39	Suppressed
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	28	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	30	Suppressed
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	42	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	28	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	55	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	35	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	65	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	20	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	41	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	22	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	29	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	33	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	15	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	33	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	11	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	23	Unreliable
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	566	Suppressed
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	686	Suppressed
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	542	Unreliable
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	633	Suppressed
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	457	Suppressed
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	560	Suppressed
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	357	Unreliable
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	467	Suppressed
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	274	Unreliable
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	313	Unreliable
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	239	Suppressed
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	237	Suppressed
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	214	Suppressed
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	186	Unreliable
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	1135	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	1134	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	1100	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	1174	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	1108	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	1081	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	965	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	869	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	748	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	751	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	660	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	10	503	Unreliable
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	486	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	397	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	1006	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	1028	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	997	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	1111	Unreliable
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	968	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	1008	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	750	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	879	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	705	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	624	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	518	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	476	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	408	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	390	Suppressed
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	6	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	6	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	6	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	20	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	1	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	7	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	10	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	7	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	5	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	6	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	11	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	6	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	10	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	7	Unreliable
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	389	Unreliable
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	523	Suppressed
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	410	Suppressed
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	465	Suppressed
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	438	Suppressed
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	363	Suppressed
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	316	Unreliable
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	315	Suppressed
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	247	Suppressed
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	215	Suppressed
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	229	Suppressed
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	207	Suppressed
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	195	Unreliable
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	192	Suppressed
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	48	Suppressed
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	116	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	40	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	100	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	60	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	75	Suppressed
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	44	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	54	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	26	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	42	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	24	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	27	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	18	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	29	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	3	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	100	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	2	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	65	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	3	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	45	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	0	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	29	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	2	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	14	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	7	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	6	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	3	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	2	Unreliable
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	350	Suppressed
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	460	Suppressed
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	375	Unreliable
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	439	Unreliable
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	396	Unreliable
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	415	Suppressed
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	318	Unreliable
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	302	Suppressed
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	180	Suppressed
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	247	Unreliable
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	157	Unreliable
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	172	Suppressed
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	116	Suppressed
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	113	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	5	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	6	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	12	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	6	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	5	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	2	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	6	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	11	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	2	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	10	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	1	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	2	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	2	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	2	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	10	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	59	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	15	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	37	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	3	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	29	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	15	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	33	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	8	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	12	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	14	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	24	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	7	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	20	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	25	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	117	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	22	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	71	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	14	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	57	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	11	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	38	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	2	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	29	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	10	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	19	Suppressed
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	11	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	18	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	50	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	60	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	44	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	47	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	42	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	44	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	19	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	49	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	27	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	21	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	17	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	21	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	18	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	22	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	8	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	19	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	10	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	14	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	20	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	22	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	12	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	9	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	13	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	12	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	9	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	6	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	6	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	7	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	28	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	36	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	31	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	53	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	26	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	38	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	19	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	40	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	25	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	40	Suppressed
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	16	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	24	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	13	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	23	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	757	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	763	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	727	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	753	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	742	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	741	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	620	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	612	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	487	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	568	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	392	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	355	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	267	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	248	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	2550	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	2506	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	2290	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	2351	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	2055	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	2109	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	1877	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	10	1882	Unreliable
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	1685	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	1531	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	1455	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	12	1329	Unreliable
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	10	1235	Unreliable
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	15	1057	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	47	Suppressed
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	70	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	53	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	73	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	62	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	53	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	55	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	46	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	40	Suppressed
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	40	Suppressed
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	35	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	20	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	29	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	15	Unreliable
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	762	Unreliable
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	883	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	740	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	850	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	813	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	765	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	665	Unreliable
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	675	Unreliable
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	506	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	494	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	391	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	383	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	336	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	325	Suppressed
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	4355	Suppressed
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	13	4466	Unreliable
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	4169	Suppressed
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	12	4215	Unreliable
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	3784	Suppressed
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	3871	Suppressed
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	3235	Suppressed
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	3204	Suppressed
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	2783	Suppressed
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	15	2624	Unreliable
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	2342	Suppressed
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	24	2299	1043.9
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	13	1862	Unreliable
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	12	1781	Unreliable
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	2140	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	2534	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	1837	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	2135	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	1899	Unreliable
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	1912	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	1648	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	1528	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	1293	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	1276	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	1121	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	1179	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	771	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	814	Suppressed
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	108	Unreliable
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	117	Suppressed
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	100	Suppressed
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	127	Unreliable
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	88	Unreliable
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	127	Unreliable
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	63	Unreliable
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	56	Unreliable
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	63	Unreliable
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	48	Unreliable
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	44	Unreliable
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	37	Suppressed
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	35	Suppressed
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	36	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	23	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	107	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	18	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	95	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	21	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	61	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	14	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	48	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	16	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	17	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	9	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	17	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	11	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	10	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	43	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	99	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	47	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	75	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	42	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	64	Suppressed
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	31	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	70	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	39	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	30	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	27	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	31	Suppressed
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	29	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	28	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	44	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	40	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	16	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	28	Suppressed
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	17	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	34	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	30	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	25	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	22	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	23	Suppressed
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	18	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	19	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	10	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	4	Unreliable
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	976	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	1078	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	1036	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	1026	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	1120	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	1070	Unreliable
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	1004	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	956	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	1092	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	993	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	1013	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	16	983	Unreliable
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	769	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	818	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	1781	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	2062	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	2002	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	2227	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	1786	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	2163	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	1513	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	10	1685	Unreliable
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	1259	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	1304	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	1095	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	986	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	826	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	13	829	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	12	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	21	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	24	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	32	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	14	Suppressed
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	40	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	28	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	14	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	17	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	8	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	8	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	10	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	11	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	7	Unreliable
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	1766	Unreliable
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	1918	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	1723	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	2030	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	1817	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	1861	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	1641	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	1594	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	1356	Unreliable
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	1369	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	1197	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	1091	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	10	959	Unreliable
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	11	797	Unreliable
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	125	Unreliable
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	202	Suppressed
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	129	Unreliable
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	187	Unreliable
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	142	Unreliable
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	150	Unreliable
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	89	Unreliable
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	124	Unreliable
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	66	Suppressed
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	92	Suppressed
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	62	Suppressed
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	105	Unreliable
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	71	Unreliable
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	38	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	42	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	70	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	38	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	62	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	38	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	38	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	28	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	25	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	24	Suppressed
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	22	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	23	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	25	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	13	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	25	Unreliable
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	16	10641	Unreliable
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	50	10816	462.3
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	14	9293	Unreliable
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	44	8827	498.5
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	14	8319	Unreliable
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	46	7722	595.7
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	15	6895	Unreliable
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	57	6498	877.2
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	28	6541	428.1
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	61	6012	1014.6
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	26	6015	432.3
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	61	5417	1126.1
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	43	4715	912.0
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	55	4542	1210.9
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	226	Unreliable
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	309	Suppressed
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	210	Unreliable
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	309	Suppressed
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	280	Suppressed
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	319	Suppressed
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	251	Suppressed
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	251	Suppressed
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	239	Suppressed
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	271	Suppressed
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	291	Unreliable
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	243	Unreliable
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	193	Unreliable
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	212	Suppressed
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	6	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	8	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	12	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	11	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	15	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	7	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	11	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	1	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	8	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	12	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	9	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	3	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	9	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	2	Unreliable
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	387	Unreliable
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	606	Suppressed
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	344	Unreliable
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	504	Suppressed
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	298	Unreliable
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	451	Suppressed
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	245	Unreliable
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	354	Suppressed
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	193	Unreliable
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	275	Suppressed
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	152	Unreliable
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	215	Suppressed
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	115	Suppressed
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	121	Suppressed
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	36	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	42	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	28	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	53	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	28	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	34	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	23	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	19	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	19	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	16	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	13	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	26	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	18	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	16	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	17	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	84	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	30	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	87	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	20	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	78	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	31	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	77	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	28	Suppressed
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	49	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	15	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	29	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	12	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	18	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	0	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	8	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	2	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	13	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	6	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	3	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	3	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	6	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	3	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	Suppressed	Suppressed
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	1	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	2	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	3	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	2	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	20	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	40	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	28	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	31	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	21	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	16	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	30	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	20	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	11	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	34	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	23	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	18	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	24	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	28	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	22	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	38	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	15	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	15	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	20	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	14	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	9	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	8	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	10	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	16	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	14	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	15	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	17	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	16	Suppressed
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	30	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	295	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	46	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	270	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	47	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	228	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	42	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	148	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	23	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	82	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	14	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	45	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	8	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	33	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	15	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	27	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	15	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	21	Suppressed
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	26	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	23	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	14	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	22	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	11	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	9	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	19	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	10	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	8	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	11	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	13	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	18	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	24	Suppressed
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	13	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	19	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	18	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	13	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	15	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	6	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	20	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	16	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	20	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	9	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	17	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	156	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	178	Suppressed
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	133	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	227	Suppressed
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	163	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	211	Suppressed
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	105	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	142	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	89	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	102	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	91	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	92	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	59	Suppressed
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	64	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	66	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	208	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	81	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	142	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	76	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	140	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	63	Suppressed
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	117	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	69	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	76	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	43	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	72	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	64	Suppressed
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	64	Suppressed
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	158	Unreliable
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	211	Suppressed
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	170	Unreliable
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	255	Suppressed
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	166	Unreliable
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	253	Unreliable
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	118	Unreliable
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	160	Unreliable
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	112	Unreliable
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	149	Suppressed
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	97	Unreliable
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	90	Unreliable
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	92	Unreliable
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	88	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	9	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	0	32	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	0	20	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	0	13	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	0	18	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	0	29	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	0	14	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	0	19	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	0	10	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	0	19	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	0	11	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	0	11	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	0	2	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	0	6	Unreliable
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Female"	"F"	0	1596	Unreliable
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	1769	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	1527	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	1658	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	1521	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	1506	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	1161	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	1316	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	974	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	1017	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	813	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	739	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	578	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2022 "	"2022"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	558	Suppressed
+"---"
+"Dataset: Underlying Cause of Death, 2018-2022, Single Race"
+"Query Parameters:"
+"Five-Year Age Groups: 30-34 years; 35-39 years; 40-44 years; 45-49 years; 50-54 years; 55-59 years; 60-64 years"
+"Gender: Female; Male"
+"Hispanic Origin: Hispanic or Latino"
+"States: Pennsylvania (42)"
+"Year/Month: 2022"
+"Group By: County; Hispanic Origin; Year; Five-Year Age Groups; Gender"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information."
+"---"
+"Query Date: Jul 19, 2024 3:23:14 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2022 on CDC WONDER Online Database, released in 2024. Data are from the Multiple Cause of Death Files,"
+"2018-2022, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Jul 19, 2024 3:23:14 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Not Stated."
+"4. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Not Stated."
+"5. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Racial Differences."
+"6. The population figures for years 2022 and later are single-race estimates of the July 1 resident population, from the Vintage"
+"2022 postcensal series released by the Census Bureau on June 22, 2023. The 2022 series is based on the Modified Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of"
+"the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020"
+"Census data from the internal Census Edited File (CEF). The population figures for years 2021 are single-race estimates of the"
+"July 1 resident population, based on the Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial"
+"population count, from the Vintage 2021 postcensal series released by the Census Bureau on June 30, 2022. The population figures"
+"for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020 postcensal series based on"
+"April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010 Census, released by the"
+"Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the July 1 resident"
+"population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on June 20, 2019."
+"More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Population Data."

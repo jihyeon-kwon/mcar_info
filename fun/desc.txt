@@ -1,0 +1,4 @@
+these are the functions to update mcar
+
+har2 : heterogeneous AR(1) (n sig2's and 1 rho) - working code
+antedep: 

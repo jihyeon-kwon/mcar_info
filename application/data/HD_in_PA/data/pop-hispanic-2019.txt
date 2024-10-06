@@ -1,0 +1,996 @@
+"Notes"	"County"	"County Code"	"Hispanic Origin"	"Hispanic Origin Code"	"Year"	"Year Code"	"Five-Year Age Groups"	"Five-Year Age Groups Code"	"Gender"	"Gender Code"	Deaths	Population	Crude Rate
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	249	Unreliable
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	278	Suppressed
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	226	Suppressed
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	257	Unreliable
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	188	Unreliable
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	287	Suppressed
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	233	Unreliable
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	272	Unreliable
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	172	Suppressed
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	212	Unreliable
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	121	Suppressed
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	141	Unreliable
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	111	Unreliable
+	"Adams County, PA"	"42001"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	96	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	1251	Unreliable
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	1659	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	1133	Unreliable
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	1378	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	894	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	918	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	765	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	747	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	648	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	567	Unreliable
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	531	Unreliable
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	493	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	452	Suppressed
+	"Allegheny County, PA"	"42003"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	382	Suppressed
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	15	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	26	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	20	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	22	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	16	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	19	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	18	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	11	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	12	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	17	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	13	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	6	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	9	Unreliable
+	"Armstrong County, PA"	"42005"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	7	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	175	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	114	Suppressed
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	122	Suppressed
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	124	Suppressed
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	78	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	98	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	73	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	71	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	74	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	63	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	55	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	60	Suppressed
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	46	Unreliable
+	"Beaver County, PA"	"42007"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	41	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	16	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	40	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	21	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	24	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	16	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	21	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	22	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	13	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	8	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	29	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	11	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	15	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	7	Unreliable
+	"Bedford County, PA"	"42009"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	14	Unreliable
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	3570	Suppressed
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	3464	Suppressed
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	3445	Suppressed
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	3122	Suppressed
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	2929	Suppressed
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	2972	Suppressed
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	2749	Suppressed
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	10	2623	Unreliable
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	2531	Suppressed
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	2274	Suppressed
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	10	1898	Unreliable
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	12	1910	Unreliable
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	13	1350	Unreliable
+	"Berks County, PA"	"42011"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	13	1293	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	45	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	80	Suppressed
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	49	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	71	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	30	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	46	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	34	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	39	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	28	Suppressed
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	42	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	15	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	35	Suppressed
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	24	Unreliable
+	"Blair County, PA"	"42013"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	31	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	34	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	39	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	41	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	42	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	23	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	33	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	25	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	21	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	14	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	28	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	20	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	14	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	17	Unreliable
+	"Bradford County, PA"	"42015"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	21	Unreliable
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	1291	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	1487	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	1415	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	1655	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	1335	Unreliable
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	1431	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	1176	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	1221	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	947	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	1044	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	812	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	834	Suppressed
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	622	Unreliable
+	"Bucks County, PA"	"42017"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	564	Suppressed
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	122	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	172	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	155	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	129	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	102	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	112	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	93	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	95	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	67	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	72	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	72	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	56	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	41	Unreliable
+	"Butler County, PA"	"42019"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	50	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	67	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	106	Suppressed
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	67	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	99	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	76	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	87	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	39	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	71	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	42	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	60	Suppressed
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	42	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	38	Suppressed
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	33	Unreliable
+	"Cambria County, PA"	"42021"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	37	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	2	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	5	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	2	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	0	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	0	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	2	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	2	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	3	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	1	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	1	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	0	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	0	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	1	Unreliable
+	"Cameron County, PA"	"42023"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	0	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	111	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	160	Suppressed
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	120	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	136	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	116	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	126	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	73	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	108	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	83	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	76	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	58	Suppressed
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	81	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	51	Unreliable
+	"Carbon County, PA"	"42025"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	54	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	150	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	285	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	107	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	247	Suppressed
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	122	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	167	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	94	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	135	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	65	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	90	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	56	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	69	Suppressed
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	42	Unreliable
+	"Centre County, PA"	"42027"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	54	Unreliable
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	1303	Unreliable
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	1668	Unreliable
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	1290	Unreliable
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	1684	Suppressed
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	1245	Unreliable
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	1505	Suppressed
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	1138	Suppressed
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	1260	Suppressed
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	904	Suppressed
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	1049	Suppressed
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	747	Suppressed
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	887	Suppressed
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	486	Suppressed
+	"Chester County, PA"	"42029"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	612	Suppressed
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	15	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	11	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	12	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	10	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	11	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	17	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	11	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	6	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	11	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	11	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	8	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	7	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	4	Unreliable
+	"Clarion County, PA"	"42031"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	6	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	17	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	310	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	32	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	315	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	26	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	281	Suppressed
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	28	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	261	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	16	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	131	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	17	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	82	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	11	Unreliable
+	"Clearfield County, PA"	"42033"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	44	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	16	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	42	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	29	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	27	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	13	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	25	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	15	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	11	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	9	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	17	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	7	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	10	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	7	Unreliable
+	"Clinton County, PA"	"42035"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	Suppressed	Suppressed
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	69	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	69	Suppressed
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	59	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	63	Suppressed
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	52	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	58	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	43	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	60	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	31	Suppressed
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	45	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	31	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	19	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	22	Unreliable
+	"Columbia County, PA"	"42037"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	31	Suppressed
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	45	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	40	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	62	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	20	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	37	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	22	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	36	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	23	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	23	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	38	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	14	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	19	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	15	Unreliable
+	"Crawford County, PA"	"42039"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	25	Unreliable
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	475	Unreliable
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	601	Unreliable
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	428	Suppressed
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	534	Unreliable
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	387	Unreliable
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	456	Unreliable
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	266	Unreliable
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	352	Suppressed
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	213	Unreliable
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	250	Suppressed
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	212	Unreliable
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	159	Suppressed
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	164	Suppressed
+	"Cumberland County, PA"	"42041"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	139	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	975	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	1045	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	1105	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	1039	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	933	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	781	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	759	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	715	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	665	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	546	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	563	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	473	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	408	Suppressed
+	"Dauphin County, PA"	"42043"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	319	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	850	Unreliable
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	1018	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	949	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	1024	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	771	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	862	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	673	Unreliable
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	733	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	563	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	451	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	473	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	463	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	346	Suppressed
+	"Delaware County, PA"	"42045"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	274	Suppressed
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	9	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	14	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	6	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	11	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	2	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	5	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	8	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	10	Suppressed
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	6	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	3	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	11	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	8	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	8	Unreliable
+	"Elk County, PA"	"42047"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	4	Unreliable
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	373	Unreliable
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	431	Unreliable
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	423	Suppressed
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	449	Suppressed
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	357	Unreliable
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	316	Suppressed
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	260	Suppressed
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	259	Unreliable
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	227	Unreliable
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	238	Suppressed
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	216	Unreliable
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	209	Suppressed
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	168	Unreliable
+	"Erie County, PA"	"42049"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	167	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	41	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	109	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	44	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	98	Suppressed
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	44	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	75	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	34	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	53	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	24	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	31	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	19	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	26	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	19	Unreliable
+	"Fayette County, PA"	"42051"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	11	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	1	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	95	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	3	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	58	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	1	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	26	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	0	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	29	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	7	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	9	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	5	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	5	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	2	Unreliable
+	"Forest County, PA"	"42053"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	4	Unreliable
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	275	Unreliable
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	416	Suppressed
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	344	Suppressed
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	354	Unreliable
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	301	Suppressed
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	349	Unreliable
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	226	Unreliable
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	221	Unreliable
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	155	Unreliable
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	194	Suppressed
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	158	Suppressed
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	130	Suppressed
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	94	Unreliable
+	"Franklin County, PA"	"42055"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	108	Suppressed
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	8	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	4	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	2	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	2	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	7	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	5	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	1	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	10	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	2	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	3	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	2	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	2	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	0	Unreliable
+	"Fulton County, PA"	"42057"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	5	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	20	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	60	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	8	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	37	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	9	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	32	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	10	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	26	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	12	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	15	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	8	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	21	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	7	Unreliable
+	"Greene County, PA"	"42059"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	15	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	16	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	126	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	14	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	85	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	13	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	57	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	9	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	49	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	6	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	22	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	9	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	29	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	6	Unreliable
+	"Huntingdon County, PA"	"42061"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	19	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	35	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	64	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	37	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	38	Suppressed
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	24	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	41	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	16	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	31	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	18	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	21	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	13	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	14	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	14	Unreliable
+	"Indiana County, PA"	"42063"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	18	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	11	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	14	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	11	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	13	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	19	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	18	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	16	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	9	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	7	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	9	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	6	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	3	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	10	Unreliable
+	"Jefferson County, PA"	"42065"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	8	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	32	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	45	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	25	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	39	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	19	Suppressed
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	42	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	21	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	42	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	22	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	27	Suppressed
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	15	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	24	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	7	Unreliable
+	"Juniata County, PA"	"42067"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	16	Unreliable
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	625	Unreliable
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	622	Unreliable
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	681	Unreliable
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	633	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	601	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	556	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	500	Unreliable
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	505	Unreliable
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	379	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	385	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	284	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	261	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	201	Suppressed
+	"Lackawanna County, PA"	"42069"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	165	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	2351	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	2328	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	2066	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	2139	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	2034	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	1996	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	1739	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	1562	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	1541	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	1395	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	1340	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	11	1188	Unreliable
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	1066	Suppressed
+	"Lancaster County, PA"	"42071"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	939	Suppressed
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	42	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	59	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	49	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	48	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	64	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	63	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	38	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	38	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	25	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	17	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	30	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	25	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	19	Unreliable
+	"Lawrence County, PA"	"42073"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	16	Unreliable
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	691	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	750	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	752	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	727	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	750	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	684	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	546	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	500	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	386	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	346	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	384	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	340	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	276	Suppressed
+	"Lebanon County, PA"	"42075"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	290	Suppressed
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	3918	Suppressed
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	4100	Suppressed
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	3748	Suppressed
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	3727	Suppressed
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	3224	Suppressed
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	3263	Suppressed
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	2793	Suppressed
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	2647	Suppressed
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	2414	Suppressed
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	2281	Suppressed
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	10	2011	Unreliable
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	12	1940	Unreliable
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	1660	Suppressed
+	"Lehigh County, PA"	"42077"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	18	1342	Unreliable
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	1568	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	1884	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	1574	Unreliable
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	1700	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	1431	Unreliable
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	1352	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	1198	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	1053	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	1025	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	1009	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	831	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	760	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	575	Suppressed
+	"Luzerne County, PA"	"42079"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	565	Suppressed
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	91	Unreliable
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	103	Unreliable
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	91	Suppressed
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	109	Unreliable
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	61	Unreliable
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	84	Unreliable
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	63	Unreliable
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	47	Unreliable
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	48	Unreliable
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	49	Suppressed
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	39	Unreliable
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	29	Unreliable
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	25	Suppressed
+	"Lycoming County, PA"	"42081"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	26	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	18	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	106	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	14	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	81	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	14	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	66	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	27	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	47	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	10	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	16	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	11	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	14	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	14	Unreliable
+	"Mc Kean County, PA"	"42083"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	Suppressed	Suppressed
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	27	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	87	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	57	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	73	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	22	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	67	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	32	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	47	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	35	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	38	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	27	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	23	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	27	Unreliable
+	"Mercer County, PA"	"42085"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	29	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	27	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	23	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	13	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	28	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	26	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	33	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	18	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	20	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	18	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	14	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	12	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	9	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	4	Unreliable
+	"Mifflin County, PA"	"42087"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	8	Unreliable
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	874	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	963	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	982	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	957	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	1015	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	897	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	1073	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	894	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	1005	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	935	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	932	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	891	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	659	Suppressed
+	"Monroe County, PA"	"42089"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	674	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	1774	Unreliable
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	1980	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	1718	Unreliable
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	2152	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	1614	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	1768	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	1310	Unreliable
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	1447	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	1142	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	1077	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	947	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	865	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	655	Suppressed
+	"Montgomery County, PA"	"42091"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	651	Suppressed
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	21	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	38	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	17	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	39	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	43	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	18	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	37	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	12	Suppressed
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	9	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	6	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	7	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	5	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	10	Unreliable
+	"Montour County, PA"	"42093"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	8	Unreliable
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	1535	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	1712	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	1616	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	1683	Unreliable
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	1616	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	1502	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	1374	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	1353	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	1196	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	1124	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	1058	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	877	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	736	Suppressed
+	"Northampton County, PA"	"42095"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	649	Suppressed
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	117	Unreliable
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	191	Unreliable
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	135	Unreliable
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	154	Suppressed
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	90	Unreliable
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	136	Suppressed
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	61	Unreliable
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	93	Unreliable
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	48	Unreliable
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	86	Suppressed
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	81	Unreliable
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	48	Unreliable
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	45	Unreliable
+	"Northumberland County, PA"	"42097"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	31	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	35	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	50	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	48	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	54	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	31	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	28	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	24	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	30	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	17	Suppressed
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	23	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	24	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	17	Unreliable
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	Suppressed	Suppressed
+	"Perry County, PA"	"42099"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	14	Unreliable
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	10073	Suppressed
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	42	10137	414.3
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	20	9063	220.7
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	40	8465	472.5
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	7495	Suppressed
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	34	7129	476.9
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	14	6788	Unreliable
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	35	6357	550.6
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	16	6447	Unreliable
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	38	5830	651.8
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	29	5389	538.1
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	47	4941	951.2
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	33	4494	734.3
+	"Philadelphia County, PA"	"42101"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	60	4009	1496.6
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	159	Suppressed
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	280	Unreliable
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	204	Unreliable
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	226	Suppressed
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	222	Suppressed
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	223	Unreliable
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	216	Unreliable
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	220	Unreliable
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	238	Suppressed
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	201	Unreliable
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	222	Unreliable
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	209	Suppressed
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	153	Suppressed
+	"Pike County, PA"	"42103"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	172	Suppressed
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	9	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	7	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	10	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	11	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	6	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	2	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	7	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	7	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	8	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	3	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	6	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	3	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	7	Unreliable
+	"Potter County, PA"	"42105"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	3	Unreliable
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	232	Unreliable
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	454	Suppressed
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	203	Unreliable
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	378	Suppressed
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	169	Unreliable
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	278	Unreliable
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	173	Unreliable
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	260	Unreliable
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	119	Unreliable
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	204	Suppressed
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	96	Unreliable
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	123	Suppressed
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	83	Suppressed
+	"Schuylkill County, PA"	"42107"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	74	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	28	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	43	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	28	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	25	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	36	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	19	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	18	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	22	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	14	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	28	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	15	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	15	Suppressed
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	10	Unreliable
+	"Snyder County, PA"	"42109"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	18	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	11	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	100	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	30	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	104	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	26	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	87	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	23	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	66	Suppressed
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	14	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	31	Suppressed
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	16	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	34	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	11	Unreliable
+	"Somerset County, PA"	"42111"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	16	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	0	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	9	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	0	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	4	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	0	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	1	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	0	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	1	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	0	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	5	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	2	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	1	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	6	Unreliable
+	"Sullivan County, PA"	"42113"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	1	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	16	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	24	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	31	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	23	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	19	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	21	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	14	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	25	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	17	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	17	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	22	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	23	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	15	Unreliable
+	"Susquehanna County, PA"	"42115"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	21	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	13	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	25	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	14	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	15	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	22	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	12	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	7	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	12	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	10	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	16	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	13	Unreliable
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	11	Suppressed
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	13	Suppressed
+	"Tioga County, PA"	"42117"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	10	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	33	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	394	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	39	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	339	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	53	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	300	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	22	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	166	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	25	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	97	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	16	Unreliable
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	53	Suppressed
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	Suppressed	Suppressed
+	"Union County, PA"	"42119"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	39	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	13	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	11	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	12	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	24	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	17	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	25	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	15	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	15	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	9	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	7	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	17	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	16	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	11	Unreliable
+	"Venango County, PA"	"42121"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	13	Suppressed
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	16	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	21	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	17	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	14	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	16	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	8	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	10	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	9	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	9	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	22	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	6	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	11	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	8	Unreliable
+	"Warren County, PA"	"42123"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	8	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	149	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	227	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	121	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	173	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	131	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	170	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	78	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	114	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	92	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	81	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	74	Unreliable
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	78	Suppressed
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	59	Suppressed
+	"Washington County, PA"	"42125"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	62	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	57	Suppressed
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	206	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	84	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	150	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	75	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	161	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	44	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	93	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	50	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	64	Suppressed
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	59	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	67	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	44	Unreliable
+	"Wayne County, PA"	"42127"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	54	Suppressed
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	146	Unreliable
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	198	Suppressed
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	148	Unreliable
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	199	Unreliable
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	120	Suppressed
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	174	Unreliable
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	112	Unreliable
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	119	Suppressed
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	79	Unreliable
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	107	Unreliable
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	108	Unreliable
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	89	Suppressed
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	92	Unreliable
+	"Westmoreland County, PA"	"42129"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	70	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	0	11	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	0	9	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	0	12	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	0	26	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	0	19	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	0	14	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	0	15	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	0	18	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	0	14	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	0	11	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	0	9	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	0	5	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	0	6	Unreliable
+	"Wyoming County, PA"	"42131"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	0	15	Unreliable
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	Suppressed	1313	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	Suppressed	1513	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	Suppressed	1355	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	Suppressed	1448	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	Suppressed	1199	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	Suppressed	1213	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	Suppressed	959	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	Suppressed	1076	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	Suppressed	824	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	Suppressed	748	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	Suppressed	590	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	Suppressed	605	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	Suppressed	509	Suppressed
+	"York County, PA"	"42133"	"Hispanic or Latino"	"2135-2"	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	Suppressed	411	Suppressed
+"---"
+"Dataset: Underlying Cause of Death, 2018-2022, Single Race"
+"Query Parameters:"
+"Five-Year Age Groups: 30-34 years; 35-39 years; 40-44 years; 45-49 years; 50-54 years; 55-59 years; 60-64 years"
+"Gender: Female; Male"
+"Hispanic Origin: Hispanic or Latino"
+"States: Pennsylvania (42)"
+"Year/Month: 2019"
+"Group By: County; Hispanic Origin; Year; Five-Year Age Groups; Gender"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information."
+"---"
+"Query Date: Jul 19, 2024 3:24:09 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2022 on CDC WONDER Online Database, released in 2024. Data are from the Multiple Cause of Death Files,"
+"2018-2022, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Jul 19, 2024 3:24:09 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Not Stated."
+"4. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Not Stated."
+"5. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Racial Differences."
+"6. The population figures for years 2022 and later are single-race estimates of the July 1 resident population, from the Vintage"
+"2022 postcensal series released by the Census Bureau on June 22, 2023. The 2022 series is based on the Modified Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of"
+"the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020"
+"Census data from the internal Census Edited File (CEF). The population figures for years 2021 are single-race estimates of the"
+"July 1 resident population, based on the Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial"
+"population count, from the Vintage 2021 postcensal series released by the Census Bureau on June 30, 2022. The population figures"
+"for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020 postcensal series based on"
+"April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010 Census, released by the"
+"Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the July 1 resident"
+"population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on June 20, 2019."
+"More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Population Data."
